@@ -1,4 +1,4 @@
- /* second question answer
+  second question answer
  let array1 =[ 7, 8 ,9,0,2 ];
  let time =array1.length;
  let item = +prompt("enter a number");
@@ -81,4 +81,4 @@ let myelement =document.querySelector('#element');
     city:"hyd"
  };
  savelocastorage('myintro',myobject);
- */
+ 
